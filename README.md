@@ -35,7 +35,14 @@ HW3/
 ├── HW3-3_output/
 ├── HW3-4_output/
 │
+├──HW3_chat_log.pdf
+├──報告HW3-1.md
+├──報告HW3-2.md
+├──報告HW3-3.md
+├── 報告HW3-4.md
+│
 └── README.md
+
 ```
 
 ---
